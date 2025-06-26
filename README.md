@@ -11,7 +11,7 @@
 ## 🧠 About Me
 
 - 🔧 Experienced in Oracle Cloud ERP (SCM & HRMS), ASP.NET Core, and system integration  
-- 👩‍💻 Skilled in front-end & back-end web development, UI/UX, and graphic design  
+- 👩‍💻 Skilled in front-end & back-end web development, and graphic design  
 - 📚 Currently training at **Makeen Bootcamp** – Full Stack Web Development  
 - 🎨 Passionate about animation, teaching, and empowering communities  
 
