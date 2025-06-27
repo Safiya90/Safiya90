@@ -19,6 +19,9 @@
 
 ## 🚀 Featured Projects
 
+### 🎓 [Recipe Platform Project](https://github.com/Safiya90/TasteBud)
+This project is designed to provide users with a seamless experience to create, view, and manage recipes. Users can add detailed recipes including ingredients and step-by-step instructions. The platform supports user authentication and role-based access, built with N-Tier architecture principles.
+
 ### 🎓 [Makeen Academy Platform](https://github.com/Iman-Alzadajli/Makeen_Academy)
 Led backend development for an online learning system using **ASP.NET Core** and **Entity Framework**. Designed DB and managed user interaction logic.
 
